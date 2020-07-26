@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/glaucomark/static/css/main.55dc6073.chunk.css",
-    "main.js": "/glaucomark/static/js/main.21d840e2.chunk.js",
-    "main.js.map": "/glaucomark/static/js/main.21d840e2.chunk.js.map",
-    "runtime-main.js": "/glaucomark/static/js/runtime-main.86e28947.js",
-    "runtime-main.js.map": "/glaucomark/static/js/runtime-main.86e28947.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/glaucomark/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.29f9df79.chunk.js": "/glaucomark/static/js/2.29f9df79.chunk.js",
-    "static/js/2.29f9df79.chunk.js.map": "/glaucomark/static/js/2.29f9df79.chunk.js.map",
-    "index.html": "/glaucomark/index.html",
-    "precache-manifest.9dff7d09a331a26ce4b4ff74fa9879bb.js": "/glaucomark/precache-manifest.9dff7d09a331a26ce4b4ff74fa9879bb.js",
-    "service-worker.js": "/glaucomark/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/glaucomark/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.55dc6073.chunk.css.map": "/glaucomark/static/css/main.55dc6073.chunk.css.map",
-    "static/js/2.29f9df79.chunk.js.LICENSE.txt": "/glaucomark/static/js/2.29f9df79.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/glaucomark/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Glaucomark/static/css/main.55dc6073.chunk.css",
+    "main.js": "/Glaucomark/static/js/main.9109b240.chunk.js",
+    "main.js.map": "/Glaucomark/static/js/main.9109b240.chunk.js.map",
+    "runtime-main.js": "/Glaucomark/static/js/runtime-main.c0604f12.js",
+    "runtime-main.js.map": "/Glaucomark/static/js/runtime-main.c0604f12.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Glaucomark/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.29f9df79.chunk.js": "/Glaucomark/static/js/2.29f9df79.chunk.js",
+    "static/js/2.29f9df79.chunk.js.map": "/Glaucomark/static/js/2.29f9df79.chunk.js.map",
+    "index.html": "/Glaucomark/index.html",
+    "precache-manifest.ffecf42cceb24cbbfb1e940f53c5dffc.js": "/Glaucomark/precache-manifest.ffecf42cceb24cbbfb1e940f53c5dffc.js",
+    "service-worker.js": "/Glaucomark/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Glaucomark/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.55dc6073.chunk.css.map": "/Glaucomark/static/css/main.55dc6073.chunk.css.map",
+    "static/js/2.29f9df79.chunk.js.LICENSE.txt": "/Glaucomark/static/js/2.29f9df79.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Glaucomark/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.86e28947.js",
+    "static/js/runtime-main.c0604f12.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.29f9df79.chunk.js",
     "static/css/main.55dc6073.chunk.css",
-    "static/js/main.21d840e2.chunk.js"
+    "static/js/main.9109b240.chunk.js"
   ]
 }
